@@ -18,8 +18,8 @@ from telegram.ext import (
 )
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "Your Bot Token Sir."
-ADMIN_ID = your-id
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+ADMIN_ID = 1234567890
 USERS_FILE = "users.json"
 PROMO_CODES_FILE = "promo_codes.json"
 BANNED_USERS_FILE = "banned_users.json"
