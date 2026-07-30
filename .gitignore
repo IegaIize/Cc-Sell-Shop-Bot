@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Bot Data (contains sensitive user info)
+users.json
+promo_codes.json
+banned_users.json
+current_cards.txt
+cards_data/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
